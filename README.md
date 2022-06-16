@@ -9,6 +9,7 @@ I'm a blockchain developer, I work with:
 - IPFS
 - React
 - JavaScript
+- Flutter
 - CSS
 
 
